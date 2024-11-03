@@ -1,0 +1,33 @@
+{
+  "name": "deadeye",
+  "version": "1.0.0",
+  "description": "DeadEye Esports Organisation is a organisation that organise different Scrims in T1,T2,T3 specially in BGMI(Battlegrounds Mobile India) previously know as PUBG Mobile (Player Unknown Battlegrounds Mobile).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshuparida2/DeadEye.git"
+  },
+  "keywords": [
+    "deadeye",
+    "esports",
+    "deadeyeesports",
+    "scrims",
+    "bgmi",
+    "BattleGroundsMobileIndia"
+  ],
+  "author": "HimanshuSekharParida (Fanaro)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himanshuparida2/DeadEye/issues"
+  },
+  "homepage": "https://github.com/Himanshuparida2/DeadEye#readme",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.669.0",
+    "@aws-sdk/client-ses": "^3.682.0",
+    "@aws-sdk/credential-provider-ini": "^3.669.0",
+    "aws-sdk": "^2.1691.0"
+  }
+}
